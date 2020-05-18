@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Automation Test Package">
+	<test name="Smoke TestCases">
+		<packages>
+			<package name="testPackage"/>
+			<package name="methodPackage"/>
+		</packages>
+	</test>
+</suite>

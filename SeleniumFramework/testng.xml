@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation Test">
+	<test name="Smoke TestCases">
+		<classes>
+			<class name="suitePackage.testSuiteClass"/>
+			<class name="methodPackage.testMethodClass"/>
+			<class name="classPackage.classClass"/>
+			<class name="testMngPackage.testClass"/>
+			<class name="testPackage.actualTestClass"/>		
+		</classes>
+	</test>
+</suite>

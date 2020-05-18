@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation Test Package">
+	<test name="Group TestCases">
+		<groups>
+			<run>
+				<include name="Priority2"/>
+			</run>
+		</groups>
+		<classes>
+			<class name="testPackage.actualTestClass" />
+		</classes>
+	</test>
+</suite>

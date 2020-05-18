@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation Test - XML Parameter">
+	<test name="Smoke TestCases">
+	<parameter name="adminUserId" value="Suresh"></parameter>
+	<classes>
+		<class name="datadriven.TestCase1"/>	
+	</classes>
+	</test>
+</suite>
